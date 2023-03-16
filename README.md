@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sunmin%20Koak&fontSize=90&fontAlign=50&fontAlignY=45&animation=fadein)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sunmin%20Koak&fontSize=60&fontAlign=50&fontAlignY=45&animation=fadein)
  
 ### 💻 Tech Stack 
 
