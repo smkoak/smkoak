@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunmin%20Koak&fontSize=90&fontAlign=50&fontAlignY=45&animation=fadein)
 
+<div align="center">
+  
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +25,7 @@
 
 [![email Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:smkoak@gmail.com)](mailto:smkoak@gmail.com)
 [![GitHub Blog Badge](https://img.shields.io/badge/-GitHub%20blog-black?logo=github&link=https://github.com/smkoak)](https://smkoak.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunmin-koak-241a2211a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunmin-koak-241a2211a/) 
 
 </div>
 
