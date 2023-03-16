@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunmin%20Koak&fontSize=90&fontAlign=50&fontAlignY=45&animation=fadein)
-
 <div align="center">
-  
-## 💻 Tech Stack
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sunmin%20Koak&fontSize=90&fontAlign=50&fontAlignY=45&animation=fadein)
+ 
+## 💻 Tech Stack 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
